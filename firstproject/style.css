@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(185, 213, 237, 0.784);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(235, 235, 225);
+    color: rgb(25, 25, 173);
+}
+img{
+   border:3.5px solid black ;
+   
+}
+h3{
+    background-color: rgb(241, 241, 210);
+}
+p{
+    color: rgb(30, 29, 29);
+}
